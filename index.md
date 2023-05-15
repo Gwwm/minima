@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: Welcome to VINCI
 ---
 
 ### Our faculty members cover a wide range of areas, including:
