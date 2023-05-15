@@ -5,8 +5,6 @@
 layout: home
 ---
 
-## VINCI is a research institute at SFU that focuses on Visual and INteractive Computing.
-
 ### Our faculty members cover a wide range of areas, including:
 
 - Visual Computing (AI/ML, graphics, vision, mathematical modeling, etc.)
