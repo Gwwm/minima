@@ -1,0 +1,15 @@
+- name: John Doe
+  photo: /assets/images/john-doe.jpg
+  webpage: https://www.example.com/john-doe
+  title: Professor
+  department: Computer Science
+  area: Visual Computing
+  bio: John Doe is a professor of computer science at SFU. His research interests include AI/ML, graphics, and vision.
+
+- name: Jane Smith
+  photo: /assets/images/jane-smith.jpg
+  webpage: https://www.example.com/jane-smith
+  title: Associate Professor
+  department: Interactive Arts and Technology
+  area: Interactive Computing
+  bio: Jane Smith is an associate professor of interactive arts and technology at SFU. Her research interests include HCI, visualization, and human-centred design.

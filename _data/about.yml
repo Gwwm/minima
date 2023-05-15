@@ -1,0 +1,15 @@
+co-directors:
+  - name: Yasu Furukawa
+    title: Professor
+    department: Computing Science
+    email: yasu@sfu.ca
+
+  - name: Permit Chilana
+    title: Associate Professor
+    department: Interactive Arts and Technology
+    email: permit@sfu.ca
+
+contact:
+  email: vinci@sfu.ca
+  phone: 604-555-1234
+  address: 8888 University Drive, Burnaby, BC V5A 1S6
